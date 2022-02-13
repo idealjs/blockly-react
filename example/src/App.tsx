@@ -1,6 +1,6 @@
 import "./App.css";
 
-import { moduleA } from "@idealjs/mono-template";
+import { moduleA } from "@idealjs/blockly-react";
 import { useEffect, useRef } from "react";
 
 function App() {

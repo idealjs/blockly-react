@@ -1,11 +1,11 @@
 {
-  "name": "@idealjs/mono-template",
+  "name": "@idealjs/blockly-react",
   "private": true,
   "workspaces": [
     "packages/*",
     "example"
   ],
-  "repository": "git@github.com:idealjs/mono-template.git",
+  "repository": "git@github.com:idealjs/blockly-react.git",
   "license": "MIT",
   "scripts": {
     "postinstall": "lerna bootstrap"
