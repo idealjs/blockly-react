@@ -8,5 +8,11 @@
     "build:prod": "rm -rf dist && webpack build --env production",
     "build": "webpack",
     "test": "jest"
+  },
+  "dependencies": {
+    "blockly": "^7.20211209.3"
+  },
+  "devDependencies": {
+    "react": "^17.0.2"
   }
 }
